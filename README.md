@@ -28,5 +28,5 @@ Hi, I'm Monica! I'm a software engineer who is passionate about making open-sour
 - 👨‍👩‍👧‍👧 Manage & Co-organize [Vuejs Nigeria (A frontend developer community)](https://twitter.com/vuejsNg)
 - ⚡ Fun fact: I can't Swim :smile:
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amycruz97&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/amycruz97/github-readme-stats)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=viclafouch.viclafouch)
