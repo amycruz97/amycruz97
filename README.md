@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1> Hey there! I'm Amycruz 👋.</h1>
+<h1> Hey there! I'm Amarachi Amaechi 👋.</h1>
+Hi, I'm Monica! I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h2> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a Front-End Engineer
@@ -25,3 +26,7 @@ Here are some ideas to get you started:
 - ✍️ &nbsp; Pursuing Technical  Writing as hobbies/side hustles.
 - :microphone: Speaks at Conferences WorldWide 
 - 👨‍👩‍👧‍👧 Manage & Co-organize [Vuejs Nigeria (A frontend developer community)](https://twitter.com/vuejsNg)
+- ⚡ Fun fact: I can't Swim :smile:
+
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=viclafouch.viclafouch)
