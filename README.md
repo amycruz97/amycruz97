@@ -23,6 +23,7 @@ I also Create Technical Content on my blog and other platforms, and speaks at co
 I recently launched my ebook titled [Getting Started in Tech: A Guide to Building a Tech Career](https://gumroad.com/l/gswtebook) aimed at helping beginners transition smoothly into tech. My interest in building communities led me to launch [Vuejs Nigeria](https://twitter.com/vuejsNg), a community for VueJS developers in Nigeria.
  
 
+
 <h2> 👩🏽‍💻 About Me </h3>
 
 
@@ -51,6 +52,7 @@ I recently launched my ebook titled [Getting Started in Tech: A Guide to Buildin
 
 <br/>
 
+---
 
 <h3> Find me around the web 🌎 </h3>
 
@@ -70,7 +72,11 @@ I recently launched my ebook titled [Getting Started in Tech: A Guide to Buildin
 
 <br>
 
+---
 
+![Amarachi Amaechi GitHub Stats](https://github-readme-stats.vercel.app/api?username=amycruz97&hide=["stars"]&show_icons=true)
+
+---
 
 Have a Great Day!
 
