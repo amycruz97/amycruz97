@@ -17,16 +17,43 @@ Here are some ideas to get you started:
 
 <h1> Hey there! I'm Amarachi Amaechi 👋.</h1>
 Hi, I'm Monica! I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
+I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural GitHub Star 🌟 based on my involvement in the tech community. My interest in the React ecosystem led me to launch React Ladies, a community for women and non-binary ReactJS developers.
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a Front-End Engineer
-- 🌱 &nbsp; Learning User Experience Design from Google UX Design Professional Certificate.
-- ✍️ &nbsp; Pursuing Technical  Writing as hobbies/side hustles.
-- :microphone: Speaks at Conferences WorldWide 
-- 👨‍👩‍👧‍👧 Manage & Co-organize [Vuejs Nigeria (A frontend developer community)](https://twitter.com/vuejsNg)
-- ⚡ Fun fact: I can't Swim :smile:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amycruz97&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/amycruz97/github-readme-stats)
+😄 Pronouns: she/her
+
+💼 &nbsp; Working as a Front-End Engineer.
+
+:microphone: Speaks at Conferences WorldWide.
+
+✍️ &nbsp; Pursuing Technical  Writing as hobbies/side hustles.
+ 
+🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+🌱 &nbsp; Learning User Experience Design from Google UX Design Professional Certificate.
+
+👨‍👩‍👧‍👧 Manage & Co-organize [Vuejs Nigeria (A frontend developer community)](https://twitter.com/vuejsNg)
+
+:books: Launched my First book [Getting Started in Tech: A Guide to Building a Tech Career](https://gumroad.com/l/gswtebook)
+
+📫 How to reach me: [amarachiamaechi4@gmail.com](mailto:amarachiamaechi4@gmail.com)
+ 
+⚡ Fun fact: I can't Swim :smile:
+
+👯 I’m looking to collaborate with the open source community to make our tech spaces more inclusive and accessibile.
+
+
+<br/>
+
+
+<h3> Find me around the web 🌎 </h3>
+
+<img src="https://imgur.com/a/hIFRm8W">
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=viclafouch.viclafouch)
+<br>
+
+Have a Great Day!
+
+⭐️ From [Amarachi Amaechi](https://github.com/97)
