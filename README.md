@@ -54,7 +54,7 @@ I recently launched my ebook titled [Getting Started in Tech: A Guide to Buildin
 
 <h3> Find me around the web 🌎 </h3>
 
-
+![GitHub Logo](https://imgur.com/a/hIFRm8W)
 <img src="https://imgur.com/a/hIFRm8W">
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=viclafouch.viclafouch)
 <br>
