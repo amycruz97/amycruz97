@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <h1> Hey there! I'm Amarachi Amaechi 👋.</h1>
-Hi, I'm Monica! I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural GitHub Star 🌟 based on my involvement in the tech community. My interest in the React ecosystem led me to launch React Ladies, a community for women and non-binary ReactJS developers.
+
+I'm a Front-End Engineer who is passionate about making the web accessible to everyone, creating technology to elevate people, and building communities.
+I also Create Technical Content on my blog and other platforms, and speaks at conferences worldwide. <br>
+I recently launched my ebook titled [Getting Started in Tech: A Guide to Building a Tech Career](https://gumroad.com/l/gswtebook) to help beginners transition smoothly into tech. <br>
+ My interest in building communities led me to launch [Vuejs Nigeria](https://twitter.com/vuejsNg), a community for VueJS developers in Nigeria.
+ 
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -49,6 +53,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 
 <h3> Find me around the web 🌎 </h3>
+
 
 <img src="https://imgur.com/a/hIFRm8W">
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=viclafouch.viclafouch)
