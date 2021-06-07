@@ -54,6 +54,10 @@ I recently launched my ebook titled [Getting Started in Tech: A Guide to Buildin
 
 ---
 
+<h3>Languages and Technologies:<h3>
+
+---
+
 <h3> Find me around the web 🌎 </h3>
 
 [<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
