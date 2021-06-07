@@ -43,6 +43,8 @@ I recently launched my ebook titled [Getting Started in Tech: A Guide to Buildin
 
 :books: Launched my First book [Getting Started in Tech: A Guide to Building a Tech Career](https://gumroad.com/l/gswtebook)
 
+ 💬 Ask me about Web development, UX Design, Technical Writing & Community Management
+
 📫 How to reach me: [amarachiamaechi4@gmail.com](mailto:amarachiamaechi4@gmail.com)
  
 ⚡ Fun fact: I can't Swim :smile:
@@ -61,22 +63,23 @@ I recently launched my ebook titled [Getting Started in Tech: A Guide to Buildin
  <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript">
  <img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap">
  <img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindcss">
+  <img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="sass">
  <img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs">
  <img height="50" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg" alt="Nuxt">
+ <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React">
  <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git">
- <img height="50" src="" alt="">
- <img height="50" src="" alt="">
- <img height="50" src="" alt="">
+ <img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github">
+  <img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab">
+  <img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="visual studio code">
+ <img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm">
+ <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="node">
  <img height="50" src="https://www.vectorlogo.zone/logos/webflow/webflow-ar21.svg" alt="webflow">
  <img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="">
  <img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="figma">
  <img height="50" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg" alt="adobe">
  <img height="50" src="" alt="">
  <img height="50" src="" alt="">
- <img height="50" src="" alt="">
- <img height="50" src="" alt="">
- <img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm">
- <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="node">
+
 
 ---
 
