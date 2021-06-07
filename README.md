@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 I'm a Front-End Engineer who is passionate about making the web accessible to everyone, creating technology to elevate people, and building communities.
 I also Create Technical Content on my blog and other platforms, and speaks at conferences worldwide. <br>
-I recently launched my ebook titled [Getting Started in Tech: A Guide to Building a Tech Career](https://gumroad.com/l/gswtebook) to help beginners transition smoothly into tech. <br>
- My interest in building communities led me to launch [Vuejs Nigeria](https://twitter.com/vuejsNg), a community for VueJS developers in Nigeria.
+
+I recently launched my ebook titled [Getting Started in Tech: A Guide to Building a Tech Career](https://gumroad.com/l/gswtebook) aimed at helping beginners transition smoothly into tech. My interest in building communities led me to launch [Vuejs Nigeria](https://twitter.com/vuejsNg), a community for VueJS developers in Nigeria.
  
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h3>
+<h2> 👩🏽‍💻 About Me </h3>
 
 
 😄 Pronouns: she/her
@@ -38,7 +38,7 @@ I recently launched my ebook titled [Getting Started in Tech: A Guide to Buildin
 
 🌱 &nbsp; Learning User Experience Design from Google UX Design Professional Certificate.
 
-👨‍👩‍👧‍👧 Manage & Co-organize [Vuejs Nigeria (A frontend developer community)](https://twitter.com/vuejsNg)
+👨‍👩‍👧‍👧  Manage & Co-organize [Vuejs Nigeria (A frontend developer community)](https://twitter.com/vuejsNg)
 
 :books: Launched my First book [Getting Started in Tech: A Guide to Building a Tech Career](https://gumroad.com/l/gswtebook)
 
@@ -69,8 +69,8 @@ I recently launched my ebook titled [Getting Started in Tech: A Guide to Buildin
 [instagram]: https://www.instagram.com/amycruz_97/
 
 <br>
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=viclafouch.viclafouch)
-<br>
+
+
 
 Have a Great Day!
 
