@@ -54,8 +54,21 @@ I recently launched my ebook titled [Getting Started in Tech: A Guide to Buildin
 
 <h3> Find me around the web 🌎 </h3>
 
-![GitHub Logo](https://imgur.com/a/hIFRm8W)
-<img src="https://imgur.com/a/hIFRm8W">
+[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/>
+
+[website]: http://amarachiamaechi.com/
+[twitter]: https://twitter.com/AmarachiAmaechi
+[linkedin]: https://www.linkedin.com/in/amaechi-amarachi/
+[medium]: https://medium.com/@amaechiamarachi/
+[instagram]: https://www.instagram.com/amycruz_97/
+
+<br>
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=viclafouch.viclafouch)
 <br>
 
