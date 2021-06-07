@@ -55,6 +55,28 @@ I recently launched my ebook titled [Getting Started in Tech: A Guide to Buildin
 ---
 
 <h3>Languages and Technologies:<h3>
+ 
+ <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5">
+ <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="CSS">
+ <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript">
+ <img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap">
+ <img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindcss">
+ <img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs">
+ <img height="50" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg" alt="Nuxt">
+ <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git">
+ <img height="50" src="" alt="">
+ <img height="50" src="" alt="">
+ <img height="50" src="" alt="">
+ <img height="50" src="https://www.vectorlogo.zone/logos/webflow/webflow-ar21.svg" alt="webflow">
+ <img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="">
+ <img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="figma">
+ <img height="50" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg" alt="adobe">
+ <img height="50" src="" alt="">
+ <img height="50" src="" alt="">
+ <img height="50" src="" alt="">
+ <img height="50" src="" alt="">
+ <img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm">
+ <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="node">
 
 ---
 
